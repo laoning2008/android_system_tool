@@ -62,6 +62,7 @@
 #include <ostream>
 
 #include "android-base/macros.h"
+#include <string.h>
 
 namespace android {
 namespace base {
